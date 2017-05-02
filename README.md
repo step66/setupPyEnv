@@ -1,5 +1,6 @@
 # setupPyEnv
 
+```
 cd ~ 
 wget https://bootstrap.pypa.io/get-pip.py 
 sudo python get-pip.py 
@@ -16,3 +17,4 @@ mkvirtualenv [yourEvnName] -p python2
 or
 mkvirtualenv [yourEvnName] -p python2
 
+```
