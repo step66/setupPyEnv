@@ -19,5 +19,5 @@ $ mkvirtualenv [yourEvnName] -p python3
 
 to work on your env:
 
-workon [yourEvnName]
+$ workon [yourEvnName]
 ```
