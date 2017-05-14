@@ -11,11 +11,13 @@ $ echo "export WORKON_HOME=HOME/.virtualenvs" >> ~/.bashrc
 $ echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bashrc 
 $ source ~/.bashrc 
 
-then
+to create your env:
 
 $ mkvirtualenv [yourEvnName] -p python2
 or
-$ mkvirtualenv [yourEvnName] -p python2
+$ mkvirtualenv [yourEvnName] -p python3
 
+to work on your env:
 
+workon [yourEvnName]
 ```
